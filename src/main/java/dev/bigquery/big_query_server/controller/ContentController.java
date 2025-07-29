@@ -12,7 +12,7 @@ import java.util.List;
 import java.util.stream.Stream;
 
 @RestController
-@RequestMapping("/api/contents")
+@RequestMapping("/contents")
 public class ContentController {
 
     @Autowired
